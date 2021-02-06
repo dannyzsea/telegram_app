@@ -1,1 +1,1 @@
-##### Telegram clone
+##### Telegram clone personal project using ReactJs
